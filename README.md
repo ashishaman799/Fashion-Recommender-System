@@ -1,5 +1,4 @@
-#Vogue Recommender
-A Deep Learning based Fashion Recommender System using the ResNET50.
+A Machine & Deep Learning based Fashion Recommender System using the ResNET50.
 Created a Fashion Recommender System using advanced deep learning architectures, including ResNet50 and Convolutional Neural Networks (CNNs), to 
 analyze and extract detailed features from diverse fashion images effectively.
 Implemented this innovative feature, previously in use on 60% of e-commerce shopping websites.
